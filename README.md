@@ -14,6 +14,7 @@
   </body>
 </html>
     
+
 #text {
   width: 190px;
   position: relative;
@@ -30,9 +31,14 @@
   border-radius: 10px 20px 20% 10pt;
 
 
-  padding: 15px;
+  padding: 40px;
   /*inner space in a box*/
   
   background-color: lightcyan;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/*WIDTH AND HEIGHT=text
+PADDING=the space around the text
+BORDER=the border
+MARGIN=the outerspace of the box. always along the outer part of the border
